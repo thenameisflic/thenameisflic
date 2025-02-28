@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-feliciano--lima%20on%20Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feliciano-lima/)](https://www.linkedin.com/in/feliciano-lima/)
 [![Gmail Badge](https://img.shields.io/badge/-fsfelicianosantana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fsfelicianosantana@gmail.com)](mailto:fsfelicianosantana@gmail.com)
 
-I am Feliciano Lima 😃. I am from São Paulo, Brazil and currently a tech lead at Numa 🏫. I'm a card-shuffling, trail-blazing, code-crunching adventurer with a soundtrack for every quest — real or digital. Leveling up life, one combo at a time.
+I'm Feliciano Lima, it's really nice to meet you 😃. I live in São Paulo, Brazil and currently work as a tech lead at Numa 🏫. I'm also a card gamer, amateur hiker, and always jamming to a soundtrack everywhere I go.
 
 👯 **Communities**
 * Mentor at Startup Weekends
