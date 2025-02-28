@@ -5,15 +5,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-feliciano--lima%20on%20Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feliciano-lima/)](https://www.linkedin.com/in/feliciano-lima/)
 [![Gmail Badge](https://img.shields.io/badge/-fsfelicianosantana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fsfelicianosantana@gmail.com)](mailto:fsfelicianosantana@gmail.com)
 
-I'm Feliciano Lima, it's really nice to meet you 😃. I live in São Paulo, Brazil and currently work as a tech lead at Numa 🏫. I'm also a card gamer, amateur hiker, and always jamming to a soundtrack everywhere I go.
+I'm Feliciano Lima, and it’s a pleasure to meet you! 😃 I’m based in São Paulo, Brazil, where I work as a Tech Lead at Numa 🏫. Outside of work, I’m passionate about card games, hiking, and always have a soundtrack playing in the background.
 
 👯 **Communities**
 * Mentor at Startup Weekends
-* Astella Expert Network associate
-* Scale-up Endeavor entrepreneur
+* Associate at Astella Expert Network
+* Entrepreneur at Scale-up Endeavor
 
 ## ⚡ Technologies
-Talk to me about:
+Let’s talk about:
 - Front-end development using **React, Vue, Angular or plain-old JavaScript/TypeScript**.
 - Backend development using **Python (Django/Flask/FastAPI), PHP (Laravel/Symphony), Node.js (Next/Nuxt)**.
 - Desktop application development using **Flutter, GTK**
@@ -21,8 +21,8 @@ Talk to me about:
 - Creating scalable cloud architecture using **AWS Cloud or GCP**.
 
 ## 🤔 Projects I'm working on
-- 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [The Name is Flic Blog](https://thenameisflic.com/).
+- 💬 Feel free to ask me about anything!
+- 📫 Check out my blog: [The Name is Flic Blog](https://thenameisflic.com/).
 - 🎯 ReadGPT: summarize and chat with any article: [ReadGPT on Github](https://github.com/thenameisflic/readgpt).
 - 🔔 JoyBudget: weekly budgeting made easy - [Joybudget on Github](https://github.com/thenameisflic/joybudget).
 
