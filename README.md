@@ -28,4 +28,4 @@ Let’s talk about:
 
 ![Feliciano's github stats](https://github-readme-stats.vercel.app/api?username=thenameisflic&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thenameisflic.thenameisflic&left_color=green&right_color=red)
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=thenameisflic&repo=thenameisflic&countColor=%237B1E7A)
