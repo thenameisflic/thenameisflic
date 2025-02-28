@@ -7,9 +7,9 @@
 
 I am Feliciano Lima 😃. I am from São Paulo, Brazil and currently a tech lead at Numa 🏫. I'm a card-shuffling, trail-blazing, code-crunching adventurer with a soundtrack for every quest — real or digital. Leveling up life, one combo at a time.
 
-## 👯 Communities
+👯 **Communities**
 * Mentor at Startup Weekends
-* Astella Expert Network apprentice
+* Astella Expert Network associate
 * Scale-up Endeavor entrepreneur
 
 ## ⚡ Technologies
