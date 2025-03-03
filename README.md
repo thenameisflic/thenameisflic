@@ -23,8 +23,9 @@ Let’s talk about:
 ## 🤔 Projects I'm working on
 - 💬 Feel free to ask me about anything!
 - 📫 Check out my blog: [The Name is Flic Blog](https://thenameisflic.com/).
-- 🎯 ReadGPT: summarize and chat with any article: [ReadGPT on Github](https://github.com/thenameisflic/readgpt).
-- 🔔 JoyBudget: weekly budgeting made easy - [Joybudget on Github](https://github.com/thenameisflic/joybudget).
+- 🎯 ReadGPT (Python + React): summarize and chat with any article: [ReadGPT on Github](https://github.com/thenameisflic/readgpt).
+- 💰 JoyBudget (React + Redux): weekly budgeting made easy - [Joybudget on Github](https://github.com/thenameisflic/joybudget).
+- 🚀 SWStarter (PHP + React): API explorer for the Star Wars API - [SWStarter on Github](https://github.com/thenameisflic/sw-starter).
 
 ![Feliciano's github stats](https://github-readme-stats.vercel.app/api?username=thenameisflic&hide=["issues"]&show_icons=true)
 
