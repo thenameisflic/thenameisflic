@@ -26,7 +26,7 @@ Let’s talk about:
 - 🎯 ReadGPT (Python + React): summarize and chat with any article: [ReadGPT on Github](https://github.com/thenameisflic/readgpt).
 - 💰 JoyBudget (React + Redux): weekly budgeting made easy - [Joybudget on Github](https://github.com/thenameisflic/joybudget).
 - 🚀 SWStarter (PHP + React): API explorer for the Star Wars API - [SWStarter on Github](https://github.com/thenameisflic/sw-starter).
-- 🔢 Say the Number (Django + Vue): convert any number to it's human-readable version: [Say the Number on Github](https://github.com/thenameisflic/saythenumber).
+- 🔢 Say the Number (Django + Vue): convert any number to its human-readable version: [Say the Number on Github](https://github.com/thenameisflic/saythenumber).
 
 ![Feliciano's github stats](https://github-readme-stats.vercel.app/api?username=thenameisflic&hide=["issues"]&show_icons=true)
 
