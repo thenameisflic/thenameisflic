@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-feliciano--lima%20on%20Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feliciano-lima/)](https://www.linkedin.com/in/feliciano-lima/)
 [![Gmail Badge](https://img.shields.io/badge/-fsfelicianosantana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fsfelicianosantana@gmail.com)](mailto:fsfelicianosantana@gmail.com)
 
-I'm Feliciano Lima, and it’s a pleasure to meet you! 😃 I’m based in São Paulo, Brazil, where I work as a Tech Lead at Numa 🏫. Outside of work, I’m passionate about card games, hiking, and always have a soundtrack playing in the background.
+I'm Feliciano Lima, and it’s a pleasure to meet you! 😃 I’m based in São Paulo, Brazil, where I work as a Software Engineer at Trellis 🏫. Outside of work, I’m passionate about card games, hiking, and always have a soundtrack playing in the background.
 
 👯 **Communities**
 * Mentor at Startup Weekends
